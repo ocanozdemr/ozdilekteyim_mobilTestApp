@@ -1,0 +1,8 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Geri butonuna iki kere tıklanır
+* "com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/ivBack" id'li elemente tıkla
+* "2" saniye bekle

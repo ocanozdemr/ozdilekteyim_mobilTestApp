@@ -1,0 +1,12 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Giriş Yapma İşlemleri Kontrol Edilir
+* "com.ozdilek.ozdilekteyim:id/cbRememberMe" id'li element "Beni Hatırla" text değerini içerdiğini kontrol et
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/btnLogin" id'li element "Giriş Yap" text değerini içerdiğini kontrol et
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/etEposta" id'li elemente "text" text değerini yaz
+* "2" saniye bekle
+* "com.ozdilek.ozdilekteyim:id/etPassword" id'li elemente "sifre" text değerini yaz
+* "2" saniye bekle

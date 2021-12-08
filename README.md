@@ -1,0 +1,18 @@
+- özdilekteyim uygulaması açılır.
+- Uygulamanın açıldığı kontrol edilir.
+- Alışverişe başla butonuna tıklanır.
+- Alışveriş sayfasının açıldığı kontrol edilir.
+- Kategoriler sayfasına gidilir.
+- Kategoriler sayfasının açıldığı kontrol edilir.
+- Menüden 'Kadın' seçeneğine tıklanır.
+- "Pantolon" kategorisi açılır.
+- Sayfanın aşağısına doğru 2 kere kaydırma işlemi yapılır.
+- Ürünlerden rastgele bir ürün seçilir.
+- Ürün detay sayfası açıldığı kontrol edilir.
+- Favoriler butonuna tıklanır.
+- Giriş yapma sayfasının açıldığı kontrol edilir.
+- Kullanıcı adı alanına 'text' bilgisi girilir.
+- Password alanına şifre yazılır.
+- Geri butonuna iki kere tıklanır.
+- Rastgele bir ürün seçilir.
+- Seçilen ürün sepete eklenir.

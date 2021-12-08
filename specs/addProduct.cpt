@@ -1,0 +1,11 @@
+Created by testinium on 6.12.2021
+
+This is a concept file with following syntax for each concept.
+# Ürün sepete eklenir
+* Rastgele bir "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup" seç
+* "2" saniye bekle
+* Rastgele bir "com.ozdilek.ozdilekteyim:id/recyclerSizeList" eklenir
+* "2" saniye bekle
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.RelativeLayout[3]/android.widget.TextView" xPath'li elemente tıkla
+
+
